@@ -1,0 +1,2 @@
+part_of(y,x) -- nn(x,y)
+slice(a) -- part_of(a,b)

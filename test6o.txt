@@ -1,0 +1,4 @@
+pizza(p)
+slice(s)
+nn(p,s)
+nn(x,y)

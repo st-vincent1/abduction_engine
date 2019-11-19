@@ -1,0 +1,3 @@
+p(a,y) -- q(x,y)
+p(b,x) and s(z) -- q(x,y) and r(x)
+q(a,b) and p(a,y) -- s(z)

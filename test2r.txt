@@ -1,0 +1,3 @@
+liquid(y) and etca(y) -- turpenine(y)
+contain(ea,x,y) -- nn(y,x)
+liquid(y) and contain(ea,x,y) and function(ea,x) and etcb(eb,x,y) -- jar(x)

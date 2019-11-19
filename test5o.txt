@@ -1,0 +1,4 @@
+space(s)
+exploration(e)
+nn(s,e)
+nn(x,y)
